@@ -40,18 +40,18 @@
 > Path Parameters:
 
 参数名 | 必须 | 说明
-- | :-: | - 
+-- | :--: | -- 
 id | y | 产品id
 
 > Headers:
 
 名称 | 必须 | 说明
-- | :-: | - 
+-- | :--: | --
 
 > Query Parameters:
 
 参数名 | 必须 | 说明
-- | :-: | - 
+-- | :--: | -- 
 
 > Response:
 
