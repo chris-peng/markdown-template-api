@@ -18,7 +18,7 @@
 * <font color="red">401</font>  
     授权失败，通常情况下，这意味着需要提醒用户重新登录
 * <font color="red">其他>=400</font>  
-    请求失败，具体含义可以[看这里](https://baike.baidu.com/item/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)，通常情况下，同时返回如下数据：
+    请求失败，具体含义可以[参考这里](https://baike.baidu.com/item/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)，通常情况下，同时返回如下数据：
 
         { 
             "code": -1, // 错误码 
