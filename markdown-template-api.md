@@ -35,7 +35,7 @@
 
 
 ## 获取产品信息
-### `get` **/product/{id}**
+### `GET` **/product/{id}**
 
 > Path Parameters:
 
@@ -67,7 +67,7 @@ id | y | 产品id
 
 
 ## 提交产品
-### `post` **/product/**
+### `POST` **/product/**
 
 > Post Body:
 
